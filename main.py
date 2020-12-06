@@ -21,4 +21,4 @@ data = {
     'TITULO': 'MSC.',
     'NOMBREJEFEDEPTO': 'NORA LETICIA CUEVAS CUEVAS'}
 
-generate_doc("templates/CONSTANCIA.docx", data, 'CONST-salida3.docx')
+generate_doc("templates/CONSTANCIA.docx", data, 'outputs/CONST-salida3.docx')
